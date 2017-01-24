@@ -2,7 +2,7 @@
 ============
 
 
-<p>First name                   Vanik</p>
+<p>First name</p>                   <p>Vanik</p>
 <p>Last name                    Hakobyan</p>
 <p>E-mail                       mailto:vanhakobyan1996@gmail.com</p>
 <p>Phone                        +374(93)579717</p>
