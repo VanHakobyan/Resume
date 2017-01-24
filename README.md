@@ -6,14 +6,14 @@ First name         |          Vanik
 Last name          |          Hakobyan
 E-mail             |          <a href="mailto:vanhakobyan1996@gmail.com">vanhakobyan1996@gmail.com</a>
 Phone              |          +374(93)579717
-Address            |          Yerevan,Nor Nork    
+Address            |          Yerevan , Nor Nork    
 Linkedin           |          [Vanik Hakobyan](https://www.linkedin.com/in/vanikhakobyan) 
 
 
 ### Education
 ---------
 
-2016 november - still now 
+2016 november - still now <br>
 :   ** Back-End Development with C#**; Microsoft Innovation Center Armenia
 
 2016 september to december
