@@ -2,10 +2,10 @@
 ============
 
 
-First name         |          Vanik
 -------------------|--------------------------------------------------------
+First name         |          Vanik
 Last name          |          Hakobyan
-E-mail             |          mailto:vanhakobyan1996@gmail.com
+E-mail             |          <a href="mailto:vanhakobyan1996@gmail.com">vanhakobyan1996@gmail.com</a>
 Phone              |          +374(93)579717
 Address            |          Yerevan,Nor Nork    
 Linkedin           |          [Vanik Hakobyan](https://www.linkedin.com/in/vanikhakobyan) 
