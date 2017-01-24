@@ -1,93 +1,45 @@
-Johnny Coder
+# Vanik Hakobyan
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+First name                        Vanik
+Last name                         Hakobyan
+E-mail                            mailto::vanhakobyan1996@gmail.com
+Phone                             +374(93)579717
+Address                           Yerevan,Nor Nork            
+Linkedin                          [Vanik Hakobyan](https://www.linkedin.com/in/vanikhakobyan)                               
 -------------------     ----------------------------
 
-Education
+### Education
 ---------
+2016 november - still now
+:    ** Back-End Development with C#**;Microsoft Innovation Center Armenia
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2016 september to december
+:   **MASIS Programming Class**; Yerevan State University
+     *Thesis title: Modern applications and software infrastructure systems using C++* 
+     
+2013-2014 and 2016 - still now
+:   **Faculty of Informatics and Applied Mathematics**; Yerevan State University ( YSU )
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title:*
+    * Dos x86 assembler (real mode)
+    * Graph theory
+    * C++ medium level
+    * Data Structure with c++
+    * Probability theory
+    * Ring theory cryptography
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2007-2013
+:   **Physics and Mathematics**; Phismath School
 
-    *Minor: Awesomeology*
 
-Experience
-----------
+### Skills
 
-**Your Most Recent Work Experience:**
+> Programming languages             C# 6.0, C++, HTML, CSS, Assembler Dos
+> Technical skills and software     VS 2015 community edition,Git,GitHub
+> Achievements                      Captain of the amateur chess team for 4 years and won together 2 gold medal
+>                                   Sergeant of air defense 1.5 year in NKR (2015 Jan -2016 July)
+> Languages                         Armenian – primary language, Russian – good English - Advanced.        
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
