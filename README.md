@@ -1,14 +1,14 @@
 # Vanik Hakobyan
 ============
 
--------------------     ----------------------------
-<p>First name                        Vanik</p>
-<p>Last name                         Hakobyan</p>
-<p>E-mail                            mailto::vanhakobyan1996@gmail.com</p>
-<p>Phone                             +374(93)579717</p>
-<p>Address                           Yerevan,Nor Nork  </p>   
-<p>Linkedin                          [Vanik Hakobyan](https://www.linkedin.com/in/vanikhakobyan)     </p>                          
--------------------     ----------------------------
+
+<p>First name                   Vanik</p>
+<p>Last name                    Hakobyan</p>
+<p>E-mail                       mailto:vanhakobyan1996@gmail.com</p>
+<p>Phone                        +374(93)579717</p>
+<p>Address                      Yerevan,Nor Nork  </p>   
+<p>Linkedin                     [Vanik Hakobyan](https://www.linkedin.com/in/vanikhakobyan)     </p>                          
+
 
 ### Education
 ---------
