@@ -13,8 +13,8 @@ Linkedin           |          [Vanik Hakobyan](https://www.linkedin.com/in/vanik
 ### Education
 ---------
 
-2016 november - still now
-:    ** Back-End Development with C#**;Microsoft Innovation Center Armenia
+2016 november - still now 
+:   ** Back-End Development with C#**; Microsoft Innovation Center Armenia
 
 2016 september to december
 :   **MASIS Programming Class**; Yerevan State University
