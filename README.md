@@ -12,6 +12,7 @@ Linkedin                          [Vanik Hakobyan](https://www.linkedin.com/in/v
 
 ### Education
 ---------
+
 2016 november - still now
 :    ** Back-End Development with C#**;Microsoft Innovation Center Armenia
 
@@ -36,10 +37,10 @@ Linkedin                          [Vanik Hakobyan](https://www.linkedin.com/in/v
 
 ### Skills
 
-> Programming languages             C# 6.0, C++, HTML, CSS, Assembler Dos
-> Technical skills and software     VS 2015 community edition,Git,GitHub
-> Achievements                      Captain of the amateur chess team for 4 years and won together 2 gold medal
->                                   Sergeant of air defense 1.5 year in NKR (2015 Jan -2016 July)
-> Languages                         Armenian – primary language, Russian – good English - Advanced.        
+> Programming languages             C# 6.0, C++, HTML, CSS, Assembler Dos <br>
+> Technical skills and software     VS 2015 community edition,Git,GitHub <br>
+> Achievements                      Captain of the amateur chess team for 4 years and won together 2 gold medal<br>
+>                                   Sergeant of air defense 1.5 year in NKR (2015 Jan -2016 July)<br>
+> Languages                         Armenian – primary language, Russian – good English - Advanced.  <br>      
 
 
