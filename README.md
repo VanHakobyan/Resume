@@ -14,8 +14,10 @@ Linkedin           |          [Vanik Hakobyan](https://www.linkedin.com/in/vanik
 ---------
 
 >2016 november - still now <br>
->Back-End Development with C# Microsoft Innovation Center Armenia
+>>Back-End Development with C# 
+>>Microsoft Innovation Center Armenia
 -----
+<br>
 >2016 september to december
 >:   **MASIS Programming Class**; Yerevan State University<br>
 >     *Modern applications and software infrastructure systems using C++* 
