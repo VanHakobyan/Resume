@@ -15,7 +15,7 @@ Linkedin           |          [Vanik Hakobyan](https://www.linkedin.com/in/vanik
 
 >2016 november - still now   | Back-End Development with C# Microsoft Innovation Center Armenia<br>
 
->2016 september to december  | MASIS Programming Class  Yerevan State University 
+>2016 september to december  | MASIS Programming Class (YSU)
 >Modern applications and software infrastructure systems using C++
      
 >2013-2014 and 2016 - still now | Faculty of Informatics and Applied Mathematics Yerevan State University ( YSU )
