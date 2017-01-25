@@ -13,12 +13,12 @@ Linkedin           |          [Vanik Hakobyan](https://www.linkedin.com/in/vanik
 ### Education
 ---------
 
->2016 november - still now | Back-End Development with C# Microsoft Innovation Center Armenia<br>
+>2016 november - still now   | Back-End Development with C# Microsoft Innovation Center Armenia<br>
 
 >2016 september to december  | MASIS Programming Class  Yerevan State University 
 >Modern applications and software infrastructure systems using C++
      
->2013-2014 and 2016 - still now Faculty of Informatics and Applied Mathematics Yerevan State University ( YSU )
+>2013-2014 and 2016 - still now | Faculty of Informatics and Applied Mathematics Yerevan State University ( YSU )
 
     * Dos x86 assembler (real mode)
     * Graph theory
@@ -27,7 +27,7 @@ Linkedin           |          [Vanik Hakobyan](https://www.linkedin.com/in/vanik
     * Probability theory
     * Ring theory cryptography
 
->2007-2013 Physics and Mathematics Phismath School
+>2007-2013 | Physics and Mathematics Phismath School
 
 <br><br>
 
