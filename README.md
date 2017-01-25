@@ -43,3 +43,5 @@ Achievements                  |    Captain of the amateur chess team for 4 years
 Languages                     |    Armenian – primary language, Russian – good, English - Advanced.  <br>      
 
 
+
+### <a href="https://github.com/VanHakobyan/Resume/blob/master/VanikHakobyanResume%202017.pdf">Resume in pdf</a>
