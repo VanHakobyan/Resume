@@ -42,7 +42,7 @@ Achievements                  |    Captain of the amateur chess team for 4 years
                               |    Sergeant (Commander) of air defense 1.5 year in NKR (2015 Jan -2016 July)<br>
 Languages                     |    Armenian – primary language, Russian – good, English - Advanced.  <br>      
 
-# I have learned C# from the following sources
+### I have learned C# from the following sources
 
 * MSDN
 * ITVDN C# video courses 
