@@ -42,6 +42,10 @@ Achievements                  |    Captain of the amateur chess team for 4 years
                               |    Sergeant (Commander) of air defense 1.5 year in NKR (2015 Jan -2016 July)<br>
 Languages                     |    Armenian – primary language, Russian – good, English - Advanced.  <br>      
 
+# I have learned C# from the following sources
 
+* MSDN
+* ITVDN C# video courses 
+* Pro C# 6.0 and the .NET 4.6 Framework, Andrew Troelsen
 
 ### <a href="https://github.com/VanHakobyan/Resume/blob/master/VanikHakobyanResume%202017.pdf">Resume in pdf</a>
