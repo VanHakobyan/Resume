@@ -8,7 +8,7 @@ E-mail             |          <a href="mailto:vanhakobyan1996@gmail.com">vanhako
 Phone              |          +374(93)579717
 Address            |          Yerevan , Nor Nork    
 Linkedin           |          [Vanik Hakobyan](https://www.linkedin.com/in/vanikhakobyan) 
-
+Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/vanhakobyan)           
 
 ### Education
 ---------
