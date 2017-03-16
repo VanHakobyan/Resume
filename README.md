@@ -39,7 +39,7 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
 Programming languages         |    C# 6.0, C++, HTML, CSS, Assembler Dos <br>
 Technical skills and software |    Visual Studio 2015 community edition,Git,GitHub, MS Office, <br>
 Achievements                  |    Captain of the amateur chess team for 4 years and won together 2 gold medal<br>
-                              |    Sergeant (Commander) of air defense 1.5 year in NKR (2015 Jan -2016 July)
+Achievements                  |    Sergeant (Commander) of air defense 1.5 year in NKR (2015 Jan -2016 July)
 Languages                     |    Armenian – primary language, Russian – good, English - Advanced.  <br>      
 
 ### I have learned C# from the following sources
