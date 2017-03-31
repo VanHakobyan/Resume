@@ -51,4 +51,6 @@ Languages                     |    Armenian – primary language, Russian – go
 * ITVDN C# video courses 
 * Pro C# 6.0 and the .NET 4.6 Framework, Andrew Troelsen
 <hr/>
+<br>
+
 ### <a href="https://github.com/VanHakobyan/Resume/blob/master/VanikHakobyanResume%202017.pdf">Resume in pdf</a>
