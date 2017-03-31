@@ -36,7 +36,7 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
 ------------------
  Skill                        |About it
 ------------------------------|------------------------------------------
-Programming languages         |    C# 7.0, C++,JavaScript HTML, CSS, Assembler Dos <br>
+Programming languages         |    C# 7.0, C++,JavaScript, HTML, CSS, Assembler Dos <br>
 Technology                    |    ASP.NET MVC, Entity Framework<br>
 Technical skills and software |    Visual Studio 2015 community edition,Git,GitHub, MS Office, <br>
 Achievements                  |    Captain of the amateur chess team for 4 years and won together 2 gold medal<br>
