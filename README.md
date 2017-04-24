@@ -36,8 +36,8 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
 ------------------
  Skill                        |About it
 ------------------------------|------------------------------------------
-Programming languages         |    C# 7.0, C++,JavaScript, HTML, CSS, Assembler Dos <br>
-Technology                    |    ASP.NET MVC, Entity Framework<br>
+Programming languages         |    C# 7.0, C++ , JavaScript, MSSQL, HTML, CSS, Assembler Dos <br>
+Technology and Framework      |    ASP.NET MVC,ASP.NWT WEB API, WPF, Entity Framework<br>
 Technical skills and software |    Visual Studio 2015 community edition,Git,GitHub, MS Office, <br>
 Achievements                  |    Captain of the amateur chess team for 4 years and won together 2 gold medal<br>
 Achievements                  |    Sergeant (Commander) of air defense 1.5 year in NKR (2015 Jan -2016 July)
@@ -47,10 +47,10 @@ Languages                     |    Armenian – primary language, Russian – go
 
 ### I have learned C# from the following sources
 
-* MSDN
-* ITVDN C# video courses 
-* Pro C# 6.0 and the .NET 4.6 Framework, Andrew Troelsen
+* MSDN :file_folder:
+* ITVDN C# video courses :movie_camera:
+* Pro C# 6.0 and the .NET 4.6 Framework, Andrew Troelsen :books:
 <hr/>
 <br>
 
-### <a href="https://github.com/VanHakobyan/Resume/blob/master/VanikHakobyan%20CV.pdf">Resume in pdf</a>
+### <a href="https://github.com/VanHakobyan/Resume/blob/master/VanikHakobyan%20CV.pdf">Resume in pdf</a> :black_nib:
