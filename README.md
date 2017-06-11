@@ -53,4 +53,4 @@ Languages                     |    Armenian – primary language, Russian – go
 <hr/>
 <br>
 
-### <a href="https://github.com/VanHakobyan/Resume/blob/master/VanikHakobyan%20CV.pdf">Resume in pdf</a> :black_nib:
+### <a href="https://github.com/VanHakobyan/Resume/blob/master/VanikHakobyanResume.pdf">Resume in pdf</a> :black_nib:
