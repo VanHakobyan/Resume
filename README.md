@@ -1,7 +1,7 @@
 # Vanik Hakobyan
 <hr/>
 
--                  | -
+new                | new
 -------------------|--------------------------------------------------------
 First name         |          Vanik
 Last name          |          Hakobyan
