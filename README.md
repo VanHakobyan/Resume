@@ -1,9 +1,9 @@
 # Vanik Hakobyan
 <hr/>
 
-
+-                  | -
 -------------------|--------------------------------------------------------
-First name         |Vanik
+First name         |          Vanik
 Last name          |          Hakobyan
 E-mail             |          <a href="mailto:vanhakobyan1996@gmail.com">vanhakobyan1996@gmail.com</a>
 Phone              |          +374(93)579717
