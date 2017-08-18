@@ -32,6 +32,9 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
 
 <br><br>
 
+### Experience
+----------------
+* 2017-present | BetConstruct ( Software Engineer, Back-End developer (.NET) )
 
 ### Skills
 ------------------
