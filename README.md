@@ -34,15 +34,16 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
 
 ### Experience
 ----------------
-* 2017-present | BetConstruct ( Software Engineer, Back-End developer (.NET) )
+> 2017-present | BetConstruct ( Software Engineer, Back-End developer (.NET) )
+
 
 ### Skills
 ------------------
  Skill                        |About it
 ------------------------------|------------------------------------------
 Programming languages         |    C# 7.0, JavaScript, C++ , MSSQL, HTML, CSS, Assembler Dos <br>
-Technology and Framework      |    ASP.NET WEB API, WPF, Entity Framework,WCF,ADO.NET<br>
-Technical skills and software |    Visual Studio 2015/2017 community edition,GitHub, MS Office <br>
+Technology and Framework      |    ASP.NET WEB API, WPF, Entity Framework , WCF , ADO.NET, Windows Service<br>
+Technical skills and software |    Visual Studio 2015/2017 ,GitHub, MS Office <br>
 Achievements                  |    Captain of the amateur chess team for 4 years and won together 2 gold medal<br>
 Achievements                  |    Sergeant (Commander) of air defense 1.5 year in NKR (2015 Jan -2016 July)
 Languages                     |    Armenian – primary language, Russian – good, English - Advanced.  <br>      
