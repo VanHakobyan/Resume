@@ -14,7 +14,7 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
 ### Education
 ---------
 
->2016 november - still now   | Back-End Development with C# Microsoft Innovation Center Armenia<br>
+>2016 november - June   | Back-End Development with C# Microsoft Innovation Center Armenia<br>
 
 >2016 september to december  | MASIS Programming Class (YSU)
 >Modern applications and software infrastructure systems using C++
