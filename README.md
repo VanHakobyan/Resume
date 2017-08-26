@@ -9,7 +9,13 @@ E-mail             |          <a href="mailto:vanhakobyan1996@gmail.com">vanhako
 Phone              |          +374(93)579717
 Address            |          Yerevan , Nor Nork    
 Linkedin           |          [Vanik Hakobyan](https://www.linkedin.com/in/vanikhakobyan) 
-Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/vanhakobyan)           
+Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/vanhakobyan)  
+
+
+### Experience
+----------------
+> 2017-present | BetConstruct ( Software Engineer, Back-End developer (.NET) )
+
 
 ### Education
 ---------
@@ -32,9 +38,6 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
 
 <br><br>
 
-### Experience
-----------------
-> 2017-present | BetConstruct ( Software Engineer, Back-End developer (.NET) )
 
 
 ### Skills
