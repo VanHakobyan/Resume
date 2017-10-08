@@ -45,7 +45,7 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
  Skill                        |About it
 ------------------------------|------------------------------------------
 Programming languages and markup|    C# 7.0, JavaScript, C++ , MSSQL, HTML, Assembler Dos <br>
-Technology and Framework      |    ASP.NET WEB API, WPF, Entity Framework , WCF , ADO.NET, Windows Service<br>
+Technology and Framework      |    ASP.NET WEB API, WPF, Entity Framework , WCF , ADO.NET, Windows Service,Selenium<br>
 Technical skills and software |    Visual Studio 2015/2017 ,GitHub, MS Office <br>
 Achievements                  |    Captain of the amateur chess team for 4 years and won together 2 gold medal<br>
 Achievements                  |    Sergeant (Commander) of air defense 1.5 year in NKR (2015 Jan -2016 July)
