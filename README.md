@@ -58,6 +58,7 @@ Languages                     |    Armenian – primary language, Russian – go
 * MSDN :file_folder:
 * ITVDN C# video courses :movie_camera:
 * Pro C# 6.0 and the .NET 4.6 Framework, Andrew Troelsen :books:
+* <a href="https://stackoverflow.com/">StackOverflow.com</a>
 <hr/>
 <br>
 
