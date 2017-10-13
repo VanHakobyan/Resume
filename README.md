@@ -55,10 +55,10 @@ Languages                     |    Armenian – primary language, Russian – go
 
 ### I have learned C# from the following sources
 
-* MSDN :file_folder:
+* <a href="https://msdn.microsoft.com/en-us/">MSDN</a> :file_folder:
 * ITVDN C# video courses :movie_camera:
 * Pro C# 6.0 and the .NET 4.6 Framework, Andrew Troelsen :books:
-* <a href="https://stackoverflow.com/">StackOverflow.com</a>
+* <a href="https://stackoverflow.com/users/8753842/hakobyan-vanik">StackOverflow.com</a>:busts_in_silhouette:
 <hr/>
 <br>
 
