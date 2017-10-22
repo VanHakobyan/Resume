@@ -1,7 +1,7 @@
 # Vanik Hakobyan
 <hr/>
 
-&isin;               &sum;
+&isin;             |  &sum;
 -------------------|--------------------------------------------------------
 First name         |          Vanik
 Last name          |          Hakobyan
