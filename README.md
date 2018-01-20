@@ -33,6 +33,11 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
     * Data Structure with c++
     * Probability theory
     * Ring theory cryptography
+    * Functional Programming with LISP
+    * Matlab 
+    * Database management systems (T-SQL)
+    * Theory of Algorithms (Turing machine)
+    
 
 >2007-2013 | Physics and Mathematics Phismath School
 
