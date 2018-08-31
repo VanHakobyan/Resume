@@ -15,6 +15,7 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
 ### Experience
 ----------------
 > 2017-present | BetConstruct (.NET Software Developer )
+> 2018 Jun-2018 Aug | BasicItCenter (C# .NET and ASP.NET Core Instructor )
 
 
 ### Education
@@ -50,7 +51,7 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
  Skill                        |About it
 ------------------------------|------------------------------------------
 Programming languages and markup|    C# 7.2, JavaScript,JS(ES6), C++, SWI-Prolog, MSSQL, HTML, Assembler Dos <br>
-Technology and Framework      |    ASP.NET WEB API, ASP.NET CORE 2.0, WPF, Entity Framework 6.0, EF CORE, WCF, ADO.NET, Windows Service,Selenium<br>
+Technology and Framework      |    ASP.NET WEB API, ASP.NET CORE 2.0, WPF, Entity Framework 6.0, EF CORE, WCF, ADO.NET, Windows Service, Selenium, <br>
 Technical skills and software |    Visual Studio 2015/2017 ,GitHub<br>
 Achievements                  |    Captain of the amateur chess team for 4 years and won together 2 gold medal<br>
 Achievements                  |    Sergeant (Commander) of air defense 1.5 year in NKR (2015 Jan -2016 July)
