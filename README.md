@@ -5,10 +5,11 @@
 -------------------|--------------------------------------------------------
 First name         |          Vanik
 Last name          |          Hakobyan
-E-mail             |          <a href="mailto:vanhakobyan1996@gmail.com">vanhakobyan1996@gmail.com</a>
-Phone              |          +374(93)579717
-Address            |          Yerevan , Armenia    
+E-mail             |          <a href="mailto:mr.vanik.hakobyan@gmail.com">mr.vanik.hakobyan@gmail.com</a>
+Phone              |          +374(93)57****
+Address            |          Yerevan, Armenia    
 Linkedin           |          [Vanik Hakobyan](https://www.linkedin.com/in/vanikhakobyan) 
+Medium             |          [Vanik Hakobyan](https://medium.com/@vanikhakobyan)  
 Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/vanhakobyan)  
 
 
