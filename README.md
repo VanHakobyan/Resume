@@ -7,7 +7,7 @@ First name         |          Vanik
 Last name          |          Hakobyan
 E-mail             |          <a href="mailto:vanhakobyan1996@gmail.com">vanhakobyan1996@gmail.com</a>
 Phone              |          +374(93)579717
-Address            |          Yerevan , Nor Nork    
+Address            |          Yerevan , Armenia    
 Linkedin           |          [Vanik Hakobyan](https://www.linkedin.com/in/vanikhakobyan) 
 Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/vanhakobyan)  
 
