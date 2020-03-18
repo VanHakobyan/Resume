@@ -51,9 +51,10 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
 ------------------
  Skill                        |About it
 ------------------------------|------------------------------------------
-Programming languages and markup|    C# 7.2, JavaScript,JS(ES6), C++, SWI-Prolog, MSSQL, HTML, Assembler Dos <br>
-Technology and Framework      |    ASP.NET WEB API, ASP.NET CORE 2.0, WPF, Entity Framework 6.0, EF CORE, WCF, ADO.NET, Windows Service, Selenium, <br>
-Technical skills and software |    Visual Studio 2015/2017 ,GitHub<br>
+Programming languages and markup|    C# 8․0, JavaScript,JS(ES6), C++, SWI-Prolog, MSSQL, MYSQL HTML, Assembler Dos <br>
+Technology and Framework      |    ASP.NET WEB API, ASP.NET CORE 2.0, WPF, Entity Framework 6.0, EF CORE, WCF, ADO.NET, Windows Service, Selenium, Redis, RabbitMQ, Dapper  <br>
+Testing                       |    NUnit, XUnit,Moq<br>
+Technical skills and software |    Visual Studio 2015/2017/2019, Git<br>
 Achievements                  |    Captain of the amateur chess team for 4 years and won together 2 gold medal<br>
 Achievements                  |    Sergeant (Commander) of air defense 1.5 year in NKR (2015 Jan -2016 July)
 Languages                     |    Armenian – primary language, Russian – good, English - Advanced.  <br>      
