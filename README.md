@@ -16,9 +16,9 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
 ### Experience
 ----------------
 > 2017-present | (.NET Software Developer ) <br>
-> 2018 Jun-2018 Aug | BasicItCenter (C# .NET and ASP.NET Core Instructor ) <br>
+> 2018 Jun-2018 Aug | Basic It Center (C# .NET and ASP.NET Core Instructor ) <br>
 > 2018 Sep-present | ISTC (C# .NET and ASP.NET Core Instructor ) <br>
-
+> 2019 Dec-present | Zil academy (C# Instructor ) <br>
 
 ### Education
 ---------
