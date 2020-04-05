@@ -30,20 +30,6 @@ Codefights         |          [Vanik Hakobyan](https://codefights.com/profile/va
      
 >2013-2014 and 2016 - still now | Faculty of Informatics and Applied Mathematics Yerevan State University ( YSU )
 
-    * Dos x86 assembler (real mode)
-    * Graph theory
-    * C++ medium level
-    * Data Structure with c++
-    * Probability theory
-    * Ring theory cryptography
-    * Functional Programming with LISP
-    * Matlab 
-    * Database management systems (T-SQL)
-    * Theory of Algorithms (Turing machine)
-    
-
->2007-2013 | Physics and Mathematics Phismath School
-
 <br><br>
 
 
